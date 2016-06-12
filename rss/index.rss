@@ -1,4 +1,85 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Unlimited Blog Works</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sun, 12 Jun 2016 16:05:46 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">fb93d6c5-1a75-4192-8c64-ec859aabd03f</guid><category>Getting Started</category><dc:creator>John Paul Ada</dc:creator><pubDate>Sat, 11 Jun 2016 15:34:13 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Unlimited Blog Works</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sun, 12 Jun 2016 16:10:38 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Search History Prank</title><description>Are you bored? Or want to have revenge? Here's a little prank you can run on your target's browser.</description><link>http://localhost:2368/search-history-prank/</link><guid isPermaLink="false">2531029a-c735-47f8-8c18-f7f7f6d03808</guid><category>fun</category><category>app</category><category>tech</category><dc:creator>John Paul Ada</dc:creator><pubDate>Sun, 12 Jun 2016 14:47:18 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/ruin.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/ruin.png" alt="Search History Prank"&gt;&lt;p&gt;Are you bored? Want to play a prank on an unsuspecting brother or get back at that annoying colleague that keeps nabbing your lunch (this is soooo not from experience)? Here's a little prank you can run on your target's browser.&lt;/p&gt;
+
+&lt;p&gt;This is so clickbait-y but hey, why not try this fun web app called &lt;strong&gt;&lt;a href="http://ruinmysearchhistory.com"&gt;Ruin My Search History&lt;/a&gt;&lt;/strong&gt; &lt;sup&gt;1&lt;/sup&gt;? Not sure who developed this but it was posted on &lt;a href="http://producthunt.com"&gt;Product Hunt&lt;/a&gt; by Tibor Martini (&lt;a href="https://www.producthunt.com/@ungeruehrt"&gt;@ungeruehrt&lt;/a&gt;). This app, well, it ruins your search history. Specifically, you click the big blue search button and it fires up a new tab and does Google searches with a bunch of funny, stupid, sick and sometimes downright senseless keywords -- unless you're the kind of person who lurks in the dark corners of &lt;a href="http://reddit.com"&gt;Reddit&lt;/a&gt;. Or if you're a &lt;a href="http://4chan.org"&gt;4chan&lt;/a&gt; newbie, because you know... yeah. Don't get me started on that one.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-49-30.png" alt="Search History Prank" title=""&gt;&lt;small&gt;&lt;em&gt;Ruin My Search History Landing Page&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;h6 id="hereareabunchofthesearchesthatithoughtwerehilarious"&gt;Here are a bunch of the searches that I thought were hilarious:&lt;/h6&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-49-49.png" alt="Search History Prank"&gt;
+&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-50-04.png" alt="Search History Prank"&gt;
+&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-50-32.png" alt="Search History Prank"&gt;
+&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-50-38.png" alt="Search History Prank"&gt;
+&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-50-40.png" alt="Search History Prank"&gt;
+&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-50-46.png" alt="Search History Prank"&gt;
+&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-50-50.png" alt="Search History Prank"&gt;
+&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-50-52.png" alt="Search History Prank"&gt;
+&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-50-56.png" alt="Search History Prank"&gt;
+&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-51-06.png" alt="Search History Prank"&gt;
+&lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-12-21-51-44.png" alt="Search History Prank"&gt;&lt;/p&gt;
+
+&lt;h4 id="searchlist"&gt;Search List&lt;/h4&gt;
+
+&lt;p&gt;This is the list of searches the app did on my browser:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;donald trump&lt;/li&gt;
+&lt;li&gt;bing&lt;/li&gt;
+&lt;li&gt;syria hotels with pool&lt;/li&gt;
+&lt;li&gt;cheap syria flights western visayas&lt;/li&gt;
+&lt;li&gt;how to join isis&lt;/li&gt;
+&lt;li&gt;isis application form&lt;/li&gt;
+&lt;li&gt;flights philippines&lt;/li&gt;
+&lt;li&gt;country low age of consent&lt;/li&gt;
+&lt;li&gt;why is age of consent so old western visayas&lt;/li&gt;
+&lt;li&gt;age of consent western visayas&lt;/li&gt;
+&lt;li&gt;how to come out as gay to dad&lt;/li&gt;
+&lt;li&gt;signs of being gay&lt;/li&gt;
+&lt;li&gt;does liking men mean im gay&lt;/li&gt;
+&lt;li&gt;best budget penis pumps&lt;/li&gt;
+&lt;li&gt;do penis pumps work&lt;/li&gt;
+&lt;li&gt;average penis size philippines&lt;/li&gt;
+&lt;li&gt;STI test in cadiz&lt;/li&gt;
+&lt;li&gt;common STIs&lt;/li&gt;
+&lt;li&gt;smelly penis cure urgent&lt;/li&gt;
+&lt;li&gt;rohypnol safe dosage&lt;/li&gt;
+&lt;li&gt;seduction guide&lt;/li&gt;
+&lt;li&gt;latest laws incest&lt;/li&gt;
+&lt;li&gt;is incest illegal in philippines
+attracted to mother why  &lt;/li&gt;
+&lt;li&gt;mail order paternity test&lt;/li&gt;
+&lt;li&gt;paternity test&lt;/li&gt;
+&lt;li&gt;ashley madison list cadiz&lt;/li&gt;
+&lt;li&gt;view ashley madison list&lt;/li&gt;
+&lt;li&gt;ashley madison hack&lt;/li&gt;
+&lt;li&gt;how to delete search history in chrome&lt;/li&gt;
+&lt;li&gt;undetectable poisons&lt;/li&gt;
+&lt;li&gt;ways to kill someone hypothetically&lt;/li&gt;
+&lt;li&gt;how to tell if partner cheating&lt;/li&gt;
+&lt;li&gt;sex shop in cadiz&lt;/li&gt;
+&lt;li&gt;engagement rings&lt;/li&gt;
+&lt;li&gt;romantic ways to propose&lt;/li&gt;
+&lt;li&gt;penis remove dog how to&lt;/li&gt;
+&lt;li&gt;how to get back with ex&lt;/li&gt;
+&lt;li&gt;is it normal to still love my ex&lt;/li&gt;
+&lt;li&gt;how to tell partner they fat&lt;/li&gt;
+&lt;li&gt;what counts as fat&lt;/li&gt;
+&lt;li&gt;i hate my boss&lt;/li&gt;
+&lt;li&gt;homemade lube?&lt;/li&gt;
+&lt;li&gt;tall midgets??&lt;/li&gt;
+&lt;li&gt;midget google images&lt;/li&gt;
+&lt;li&gt;why doesnt my poo float&lt;/li&gt;
+&lt;li&gt;your youre difference&lt;/li&gt;
+&lt;li&gt;am i lack toast and tolerant&lt;/li&gt;
+&lt;li&gt;why are my thumbs uneven&lt;/li&gt;
+&lt;li&gt;how to appear funny&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now go and ruin somebody's life -- I mean, search history. *wink&lt;/p&gt;
+
+&lt;h5 id="notes"&gt;Notes:&lt;/h5&gt;
+
+&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; You might want to go &lt;strong&gt;incognito&lt;/strong&gt; to test this.&lt;/p&gt;</content:encoded></item><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">fb93d6c5-1a75-4192-8c64-ec859aabd03f</guid><category>Getting Started</category><dc:creator>John Paul Ada</dc:creator><pubDate>Sat, 11 Jun 2016 15:34:13 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
 
 &lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
 
