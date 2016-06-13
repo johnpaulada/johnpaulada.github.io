@@ -1,4 +1,87 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Unlimited Blog Works</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 13 Jun 2016 12:52:31 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>[Video] Breaking Norms</title><description>Society has a ton of norms we don't even think about anymore. So we set out to break some of them and see how people react.</description><link>http://localhost:2368/video-breaking-norms/</link><guid isPermaLink="false">26af501a-2661-46d2-b600-0be75c6dd35b</guid><category>video</category><category>psych</category><category>experiment</category><dc:creator>John Paul Ada</dc:creator><pubDate>Mon, 13 Jun 2016 12:42:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-13-20-40-23.png" medium="image"/><content:encoded>&lt;h3 id="background"&gt;Background&lt;/h3&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Unlimited Blog Works</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 13 Jun 2016 15:11:38 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>PhilNITS FE Passers (April 24, 2016)</title><description>This the list of the April 2016 PhilNITS Fundamental IT Engineer Examination passers. A bit late but congratulations!</description><link>http://localhost:2368/philnits-fe-passers-april-24-2016/</link><guid isPermaLink="false">23ec3d09-5ef6-459a-aa49-193079993ede</guid><category>exam</category><category>passers</category><dc:creator>John Paul Ada</dc:creator><pubDate>Mon, 13 Jun 2016 15:00:31 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/philnits-700x341-1.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/philnits-700x341-1.jpg" alt="PhilNITS FE Passers (April 24, 2016)"&gt;&lt;p&gt;This the list of the April 2016 PhilNITS Fundamental IT Engineer Examination passers. A bit late but congratulations!&lt;/p&gt;
+
+&lt;h6 id="philnitsfepasserslist"&gt;PhilNITS FE Passers List&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;acabal, kenn andre martinez&lt;/li&gt;
+&lt;li&gt;agbay, vanessa camille arcega&lt;/li&gt;
+&lt;li&gt;aldeosa, lance paolo&lt;/li&gt;
+&lt;li&gt;arzadon, errol jayson dagdagan&lt;/li&gt;
+&lt;li&gt;bangalan, francis grace enrique&lt;/li&gt;
+&lt;li&gt;bautista, jireh jumao-as&lt;/li&gt;
+&lt;li&gt;betoya, alvin roullo&lt;/li&gt;
+&lt;li&gt;capotolan, manrick edwin dizon&lt;/li&gt;
+&lt;li&gt;casimiro, armando jr nonato&lt;/li&gt;
+&lt;li&gt;contreras, gwyn banta&lt;/li&gt;
+&lt;li&gt;coprada, mark johndy coronado&lt;/li&gt;
+&lt;li&gt;danao, jon michael villanea&lt;/li&gt;
+&lt;li&gt;Dela Cruz, ricky fernandez&lt;/li&gt;
+&lt;li&gt;deligero, anne faye escasinas&lt;/li&gt;
+&lt;li&gt;dilla, jerick cedillo&lt;/li&gt;
+&lt;li&gt;encarnacion, raymond dimaano&lt;/li&gt;
+&lt;li&gt;entote, simon gerard lato&lt;/li&gt;
+&lt;li&gt;evangelista, mark gio samson&lt;/li&gt;
+&lt;li&gt;faustino, marc jason de leon&lt;/li&gt;
+&lt;li&gt;gallardo, andrea jessa abeleda&lt;/li&gt;
+&lt;li&gt;gasis, christian ray bacalla&lt;/li&gt;
+&lt;li&gt;gom-os, dhong fhel kilat&lt;/li&gt;
+&lt;li&gt;king, rainier santos&lt;/li&gt;
+&lt;li&gt;liboro, amiel paolo cruz&lt;/li&gt;
+&lt;li&gt;lomibao, thea abigail yu&lt;/li&gt;
+&lt;li&gt;mansos, john francis llagas&lt;/li&gt;
+&lt;li&gt;marte, anna rodina surio&lt;/li&gt;
+&lt;li&gt;masong, xeno xerxes quevedo&lt;/li&gt;
+&lt;li&gt;moso, karen llanes&lt;/li&gt;
+&lt;li&gt;muñoz, francis john talabong&lt;/li&gt;
+&lt;li&gt;osias, ted lan betuin&lt;/li&gt;
+&lt;li&gt;olegario, bryan allen ibañez&lt;/li&gt;
+&lt;li&gt;ong, dominique curtis uy&lt;/li&gt;
+&lt;li&gt;palevino, karla engela baybay&lt;/li&gt;
+&lt;li&gt;pineda, nicole alexis gisala&lt;/li&gt;
+&lt;li&gt;poa, mark allan lo&lt;/li&gt;
+&lt;li&gt;quiling, antonio jr gabiana&lt;/li&gt;
+&lt;li&gt;reyes, argie jison&lt;/li&gt;
+&lt;li&gt;romuar, bruxelles bautista&lt;/li&gt;
+&lt;li&gt;salazar, jomerson recto&lt;/li&gt;
+&lt;li&gt;sanchez, erwin paul cayas&lt;/li&gt;
+&lt;li&gt;sandro, jennibeth dalabajan&lt;/li&gt;
+&lt;li&gt;sanjorjo, angelyn macapaz &lt;/li&gt;
+&lt;li&gt;santos, norman segura&lt;/li&gt;
+&lt;li&gt;saren, mark fazon&lt;/li&gt;
+&lt;li&gt;sarinas, marcelino lijauco&lt;/li&gt;
+&lt;li&gt;say, jan michael mendoza&lt;/li&gt;
+&lt;li&gt;silvestre, kriselle del mundo&lt;/li&gt;
+&lt;li&gt;soriano, clariza joy lontok&lt;/li&gt;
+&lt;li&gt;talatayod, emelyn pondavilla&lt;/li&gt;
+&lt;li&gt;tan, sharmaine grace lim&lt;/li&gt;
+&lt;li&gt;timtim, kimberly ungie&lt;/li&gt;
+&lt;li&gt;tingson, anna lhea dreo&lt;/li&gt;
+&lt;li&gt;ursolino, patrick lorenz tarranco&lt;/li&gt;
+&lt;li&gt;villanueva, marieann jocel sumague&lt;/li&gt;
+&lt;li&gt;viray, justin carlo susi&lt;/li&gt;
+&lt;li&gt;yutiu, jeremy magat&lt;/li&gt;
+&lt;li&gt;zaragoza, rhodora mhae desales&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>PhilNITS (FE) Review Materials</title><description>PhilNITS exams are hard. Here are some resources so you can be confident when you step inside the exam room.</description><link>http://localhost:2368/philnits-fe-review-materials/</link><guid isPermaLink="false">74d5e936-3e7b-463e-98fc-1fda36484f96</guid><category>resources</category><category>it</category><category>cs</category><category>pdf</category><category>slides</category><category>books</category><dc:creator>John Paul Ada</dc:creator><pubDate>Mon, 13 Jun 2016 14:39:12 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/philnits-700x341.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/philnits-700x341.jpg" alt="PhilNITS (FE) Review Materials"&gt;&lt;p&gt;Just because IT and Computer-related courses do not have a board exam doesn't mean that there are no certifications. Aside from &lt;a href="http://www.tesda.gov.ph"&gt;&lt;strong&gt;TESDA&lt;/strong&gt;&lt;/a&gt;, there's also the &lt;a href="http://www.philnits.org"&gt;&lt;strong&gt;PhilNITS Foundation&lt;/strong&gt;&lt;/a&gt; which, according to their website, is a:  &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;non-stock, non-profit, non-government organization that is implementing an I.T Certification Program from I.T. standards adopted from Japan, with the support of the Department of Trade &amp;amp; industry (DTI) of the Philippines and the Ministry of Economy, Trade &amp;amp; Industry (METI) of Japan.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You may ask, "If it's adopted from Japan standards, is it difficult then?". YES IT IS. According to their website, the Fundamental IT Engineer (FE) Exam has a passing rate of 14.2%.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What. The. Actual. Fuck.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The IT Passport (IP) Exam has a passing rate of 21.7% while the Applied IT Engineer (AP) Exam has a passing rate of 23.11%. Better, but still low.&lt;/p&gt;
+
+&lt;h6 id="butfearnot"&gt;But fear not!&lt;/h6&gt;
+
+&lt;p&gt;I have acquired a set of materials that can help you with reviewing for the FE exam!&lt;/p&gt;
+
+&lt;h5 id="link"&gt;Link:&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;a href="https://mega.nz/#F!VYd2RYhR!vDXlU4W-DXLo-BQOqepLcw"&gt;https://mega.nz/#F!VYd2RYhR!vDXlU4W-DXLo-BQOqepLcw&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;By the way, &lt;strong&gt;CONGRATULATIONS&lt;/strong&gt; to the April 2016 PhilNITS Exam &lt;a href="http://localhost:2368/philnits-fe-passers-april-24-2016/"&gt;&lt;strong&gt;passers&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;</content:encoded></item><item><title>[Video] Breaking Norms</title><description>Society has a ton of norms we don't even think about anymore. So we set out to break some of them and see how people react.</description><link>http://localhost:2368/video-breaking-norms/</link><guid isPermaLink="false">26af501a-2661-46d2-b600-0be75c6dd35b</guid><category>video</category><category>psych</category><category>experiment</category><dc:creator>John Paul Ada</dc:creator><pubDate>Mon, 13 Jun 2016 12:42:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-13-20-40-23.png" medium="image"/><content:encoded>&lt;h3 id="background"&gt;Background&lt;/h3&gt;
 
 &lt;img src="http://localhost:2368/content/images/2016/06/Screenshot-from-2016-06-13-20-40-23.png" alt="[Video] Breaking Norms"&gt;&lt;p&gt;Society has a ton of norms and we almost never stop to think about them anymore because they're &lt;em&gt;"common sense"&lt;/em&gt; or &lt;em&gt;"obvious"&lt;/em&gt; but sometimes they stop us from having what we want. So, as a requirement for our Social Psychology class, we set out to break some norms and see how people react.&lt;/p&gt;
 
