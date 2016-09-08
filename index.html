@@ -9,11 +9,7 @@
         <![endif]-->
 
         <!-- Libraries -->
-        <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400" rel="stylesheet">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js" defer></script>
-
-        <!-- Custom CSS Links -->
-        <link rel="stylesheet" href="dist/bundle.css" media="screen" title="CSS">
+        <script src="./dist/bundle.js" defer></script>
 
         <style media="screen">
             #container-1 {
@@ -45,5 +41,21 @@
                 <h1 id="main-text" class="center-text grey-text text-lighten-3">"Welcome to a world of possibilities!"</h1>
             </div>
         </section>
+        <noscript id="deferred-styles">
+            <link rel="stylesheet" href="dist/bundle.css" media="screen" title="main">
+        </noscript>
+        <script>
+            var loadDeferredStyles = function() {
+                var addStylesNode = document.getElementById("deferred-styles");
+                var replacement = document.createElement("div");
+                replacement.innerHTML = addStylesNode.textContent;
+                document.body.appendChild(replacement)
+                addStylesNode.parentElement.removeChild(addStylesNode);
+            };
+            var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+            webkitRequestAnimationFrame || msRequestAnimationFrame;
+            if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+            else window.addEventListener('load', loadDeferredStyles);
+        </script>
     </body>
 </html>
