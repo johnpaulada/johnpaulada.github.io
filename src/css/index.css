@@ -1,4 +1,9 @@
-#main-text {
+.main-text {
     margin-top: 20vh;
-    font-size: 3em;
+    font-size: 5em;
+}
+
+.submain-text {
+    font-size: 2em;
+    font-weight: 300;
 }
