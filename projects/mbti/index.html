@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+	 <head>
+		 <title>Myers-Briggs Type Indicator Personality Inventory</title>
+		 <meta charset="utf-8" />
+		 <meta name="viewport" content="width=device-width, inital-scale=1.0" />
+		 <link rel="stylesheet" href="foundation/css/foundation.min.css" />
+		 <link rel="stylesheet" href="css/style.css" />
+		 <script src="foundation/js/vendor/modernizr.js"></script>
+		 <script src="js/jquery-2.1.1.min.js"></script>
+		 <script src="js/jquery.scrollTo.min.js"></script>
+		 <script src="js/script.js"></script>
+		 <script src="js/angular.min.js"></script>
+		 <script src="js/testController.js"></script>
+	 </head>
+	 <body>
+		  <header>
+			  	<div class="row">
+					<div class="medium-12 columns">
+						<h1><span>MBTI</span><br>Personality Inventory</h1>
+					</div>
+				</div>
+		  </header>
+		 <div class="row">
+			 <div class="medium-11 columns reveal-modal" data-reveal id="modal-window">
+				 <h2 id="type">TYPE</h2>
+				 <h3 id="subtitle">Subtitle</h3>
+				 <p id="desc">Description</p>
+				 <a class="close-reveal-modal">&#215;</a>
+			 </div>
+		 </div>
+		 <section ng-app="" ng-controller="testController">
+			  <form>
+				  <div id="main-div">
+						<ol>
+							 <li ng-repeat="x in data">
+								 {{ x.question }} <br>
+								 <input type=radio value="a" name="{{$index}}"/> <span>{{ x.choices[0] }}</span> <br>
+								 <input type=radio value="b" name="{{$index}}"/> <span>{{ x.choices[1] }}</span> <br>
+							 </li>
+						</ol>
+				  </div>
+				  <input class="small button" id="doIt" type="submit" />
+			  </form>
+		 </section>
+		 <footer>
+			 <div class="row">
+				 <p class="medium-12 medium-centered columns" id="footer-p">
+					 <span style="color: red; font-size: 24pt;">John Paul Ada</span> <br><span style="color: gray">Web App Design</span><br>
+					 <span style="color: red; font-size: 24pt">AngularJS &amp; Foundation 5</span><br><span style="color: gray">Frameworks</span>
+				 </p>
+			 </div>
+		 </footer>
+		 <a style="display:none" href="#" id="mlink" data-reveal-id="modal-window">Simulate</a>
+		 <script src="foundation/js/foundation.min.js"></script>
+		 <script>
+			 jQuery(document).foundation();
+		 </script>
+	 </body>
+</html>

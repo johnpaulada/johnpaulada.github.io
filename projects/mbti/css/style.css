@@ -1,0 +1,76 @@
+header h1 {
+	text-align: center;
+	font-family: Century, Garamond, serif;
+	font-size: 64pt;
+	margin: 40pt 0;
+}
+
+header span {
+	font-size: 100pt;
+	font-family: "Century Gothic", Helvetica, sans-serif;
+}
+
+#main-div {
+	margin: 0 auto;
+	display: table;
+	background-color: #093;
+	opacity: 0.9;
+	padding: 30px 50px;
+	padding-bottom: 20px;
+	border-radius: 10px;
+	color: white;
+	font-family: Century, serif;
+}
+
+#main-div li {
+	font-size: 16pt;
+}
+
+input[type="submit"] {
+	font-size: 24pt;
+	font-family: "Century Gothic", Helvetica, sans-serif;
+}
+
+#doIt {
+	margin: 10px auto;
+	display: table;
+}
+
+#modal-window {
+	text-align: center;
+	display: none;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #36F;
+	border-radius: 5px;
+/*	margin-left: 50px;*/
+/*	margin-right: 50px;*/
+}
+
+#modal-window #type {
+	font-size: 72pt;
+	font-family: Helvetica, "Century Gothic", sans-serif;
+	color: white;
+}
+
+#modal-window #subtitle {
+	font-size: 36pt;
+	font-family: Garamond, "Cambria Math", serif;
+	color: white;
+	font-style: italic;
+}
+
+#desc {
+	font-family: "Cambria Math", Garamond, serif;
+	color: white;
+	font-size: 14pt;
+}
+
+#footer-p {
+	padding: 20px;
+	margin-top: 20px;
+	text-align: center;
+	border-top: 2px dashed black;
+	font-family: "Cambria Math", Garamond, serif;
+	font-size: 12pt;
+}
