@@ -1,0 +1,24 @@
+{
+  "name": "johnpaulada.github.io",
+  "version": "1.0.0",
+  "description": "John Paul Ada's Home Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnpaulada/johnpaulada.github.io.git"
+  },
+  "author": "John Paul Ada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnpaulada/johnpaulada.github.io/issues"
+  },
+  "homepage": "https://github.com/johnpaulada/johnpaulada.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0"
+  }
+}
