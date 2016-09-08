@@ -1,0 +1,10 @@
+#container-1 {
+    margin-top: -7vh;
+    background-image: url(../img/landing-1.jpeg);
+}
+
+#main-text {
+    margin-top: 20vh;
+    font-size: 4em;
+    font-family: "Ubuntu", sans-serif;
+}
