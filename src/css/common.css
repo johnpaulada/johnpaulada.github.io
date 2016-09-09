@@ -12,9 +12,9 @@ body {
 }
 
 .shadowed-text {
-    text-shadow: 0px 13px 19px rgba(150, 150, 150, 0.8);
+    text-shadow: 0px 11px 19px rgba(0, 0, 0, 0.5);
 }
 
 .large-shadowed-text {
-    text-shadow: 0px 16px 24px rgba(150, 150, 150, 0.9);
+    text-shadow: 0px 16px 24px rgba(0, 0, 0, 0.5);
 }
