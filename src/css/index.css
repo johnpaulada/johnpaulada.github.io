@@ -10,8 +10,8 @@ h1, h2 {
 }
 
 @media all
-  and (min-width: 320px)
-  and (max-width: 1199px) {
+  and (min-width: 320px) or (min-device-width: 320px)
+  and (max-width: 1199px) or (max-device-width: 1199px){
       .main-container {
           width: 100vw;
           height: 100vh;
@@ -107,7 +107,7 @@ h1, h2 {
 }
 
 @media all
-  and (min-width: 1200px) {
+  and (min-width: 1200px) or (min-device-width: 1200px) {
       h1 {
           font-family: SignPainter, serif;
           font-size: 6vw;
