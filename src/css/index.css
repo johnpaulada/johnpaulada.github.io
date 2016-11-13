@@ -23,7 +23,6 @@ h1, h2 {
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
-          filter: sepia(75%);
       }
 
       h1 {
@@ -214,7 +213,6 @@ h1, h2 {
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
-          filter: sepia(75%);
       }
 
       .text-container {
