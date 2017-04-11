@@ -14,79 +14,23 @@
         <meta name="author" content="John Paul Ada">
         <meta name="title" content="Projects - Unlimited Blog Works">
 
+        <link rel="stylesheet" href="../dist/bundle.css">
+
         <title>Projects - Unlimited Blog Works</title>
     </head>
     <body>
         <header>
-            <div class="navbar-fixed">
-                <nav class="blue z-depth-0">
-                    <div class="nav-wrapper container">
-                        <a href="/" class="brand-logo shadowed-text">Jepe Pages</a>
-                        <ul id="nav-mobile" class="right hide-on-med-and-down">
-                            <li><a href="/">Home</a></li>
-                            <li><a href="/projects/index.html">Projects</a></li>
-                            <li><a href="#">About</a></li>
-                        </ul>
-                    </div>
-                </nav>
-            </div>
+
         </header>
         <section>
-            <div class="container">
-                <h1 class="center">Projects</h1>
-                <div class="row">
-                    <div class="col s12 m6 l4">
-                        <div class="card">
-                            <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator" src="img/mbti-card.png">
-                            </div>
-                            <div class="card-content">
-                                <span class="card-title activator grey-text text-darken-4">MBTI Personality Test<i class="material-icons right">more_vert</i></span>
-                                <p><a class="btn btn-block" href="mbti/index.html">Try it!</a></p>
-                            </div>
-                            <div class="card-reveal">
-                                <span class="card-title grey-text text-darken-4">MBTI Personality Test<i class="material-icons right">close</i></span>
-                                <p>An experiment with using AngularJS and Foundation CSS Framework. Determines the personality type of user via the Myers-Briggs Type Indicator.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col s12 m6 l4">
-                        <div class="card">
-                            <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator" src="img/lsi-card.png">
-                            </div>
-                            <div class="card-content">
-                                <span class="card-title activator grey-text text-darken-4">Learning Styles Inventory<i class="material-icons right">more_vert</i></span>
-                                <p><a class="btn btn-block" href="learning-style-inventory/index.html">Try it!</a></p>
-                            </div>
-                            <div class="card-reveal">
-                                <span class="card-title grey-text text-darken-4">Learning Styles Inventory<i class="material-icons right">close</i></span>
-                                <p>Determines your learning style. Fill it out and check it out!</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col s12 m6 l4">
-                        <div class="card">
-                            <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator" src="img/mbti-card.png">
-                            </div>
-                            <div class="card-content">
-                                <span class="card-title activator grey-text text-darken-4">MBTI Personality Test<i class="material-icons right">more_vert</i></span>
-                                <p><a class="btn btn-block" href="mbti/index.html">Try it!</a></p>
-                            </div>
-                            <div class="card-reveal">
-                                <span class="card-title grey-text text-darken-4">MBTI Personality Test<i class="material-icons right">close</i></span>
-                                <p>An experiment with using AngularJS and Foundation CSS Framework. Determines the personality type of user via the Myers-Briggs Type Indicator.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
         </section>
+
         <noscript id="deferred-styles">
-            <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-            <link rel="stylesheet" href="../dist/bundle.css" media="screen" title="main">
+            <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+            <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,900" rel="stylesheet">
         </noscript>
+
         <script>
             var loadDeferredStyles = function() {
                 var addStylesNode = document.getElementById("deferred-styles");
@@ -100,45 +44,5 @@
             if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
             else window.addEventListener('load', loadDeferredStyles);
         </script>
-
-        <script type="text/javascript">
-            //<![CDATA[ 
-            (function() {
-                var configuration = {
-                "token": "67339ded0b861b1dbaa197b6d34481f8",
-                "excludeDomains": [
-                    "yourowndomain.com"
-                ],
-                "capping": {
-                    "limit": 5,
-                    "timeout": 24
-                },
-                "entryScript": {
-                    "type": "timeout",
-                    "timeout": 3000,
-                    "capping": {
-                        "limit": 5,
-                        "timeout": 24
-                    }
-                },
-                "exitScript": {
-                    "enabled": true
-                },
-                "popUnder": {
-                    "enabled": true
-                }
-            };
-                var script = document.createElement('script');
-                script.async = true;
-                script.src = '//cdn.shorte.st/link-converter.min.js';
-                script.onload = script.onreadystatechange = function () {var rs = this.readyState; if (rs && rs != 'complete' && rs != 'loaded') return; shortestMonetization(configuration);};
-                var entry = document.getElementsByTagName('script')[0];
-                entry.parentNode.insertBefore(script, entry);
-            })();
-            //]]>
-        </script>
-
-        <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous" defer></script>
-        <script src="../dist/bundle.js" defer></script>
     </body>
 </html>
