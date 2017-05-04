@@ -36,13 +36,13 @@ div.quote {
 
 p.message {
   font-family: "Satisfy", cursive;
-  font-size: 3em;
+  font-size: calc(1em + 3vw);
   color: #e8e8e8;
 }
 
 p.author {
   font-family: "Satisfy", cursive;
-  font-size: 3em;
+  font-size: calc(1.5em + 1vw);
   color: #AAA;
   align-self: flex-end;
 }
