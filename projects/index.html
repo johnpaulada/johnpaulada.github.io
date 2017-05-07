@@ -13,6 +13,8 @@
         <meta name="keywords" content="John Paul Ada, Unlimited Blog Works, Projects">
         <meta name="author" content="John Paul Ada">
         <meta name="title" content="Projects - Unlimited Blog Works">
+
+        <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Permanent+Marker" rel="stylesheet">
     </head>
     <body>
         <header>
@@ -22,34 +24,56 @@
             <div class="container">
                 <div class="project-list">
                     <div class="project">
-                        <img src="./img/lsi-card.png" alt="Random Quote Generator Preview" class="project__image">
-                        <h2 class="project__title">
-                            Learning Style Inventory
-                        </h2>
-                        <p class="project__description">
-                            Generates a random computer science quote. <br>
-                            A FreeCodeCamp project.
-                        </p>
-                    </div>
-                    <div class="project">
-                        <img src="./img/mbti-card.png" alt="Random Quote Generator Preview" class="project__image">
-                        <h2 class="project__title">
-                            MBTI Personality Indicator
-                        </h2>
-                        <p class="project__description">
-                            Generates a random computer science quote. <br>
-                            A FreeCodeCamp project.
-                        </p>
-                    </div>
-                    <div class="project">
-                        <img src="./img/rqg-card.png" alt="Random Quote Generator Preview" class="project__image">
+                        <div class="project__img" style="background-image: url(./img/rqg-card.png);"></div>
                         <h2 class="project__title">
                             Random Quote Generator
                         </h2>
                         <p class="project__description">
-                            Generates a random computer science quote. <br>
+                            Generates a random computer science quote.
                             A FreeCodeCamp project.
                         </p>
+                        <div class="project__ctas">
+                            <a href="./random-quote-generator/index.html" class="project__button">View</a>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <div class="project__img" style="background-image: url(./img/lsi-card.png);"></div>
+                        <h2 class="project__title">
+                            Learning Style Inventory
+                        </h2>
+                        <p class="project__description">
+                            Discover your learning style.
+                        </p>
+                        <div class="project__ctas">
+                            <a href="./random-quote-generator/index.html" class="project__button">View</a>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <!-- <img src="./img/mbti-card.png" alt="Random Quote Generator Preview" class="project__image"> -->
+                        <div class="project__img" style="background-image: url(./img/mbti-card.png);"></div>
+                        <h2 class="project__title">
+                            MBTI Personality Inventory
+                        </h2>
+                        <p class="project__description">
+                            Discover your MBTI personality type.
+                        </p>
+                        <div class="project__ctas">
+                            <a href="./random-quote-generator/index.html" class="project__button">View</a>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <!-- <img src="./img/rqg-card.png" alt="Random Quote Generator Preview" class="project__image"> -->
+                        <div class="project__img" style="background-image: url(./img/rqg-card.png);"></div>
+                        <h2 class="project__title">
+                            Random Quote Generator
+                        </h2>
+                        <p class="project__description">
+                            Generates a random computer science quote.
+                            A FreeCodeCamp project.
+                        </p>
+                        <div class="project__ctas">
+                            <a href="./random-quote-generator/index.html" class="project__button">View</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -61,25 +85,79 @@
                 padding: 0;
             }
 
+            body {
+                background-color: #F5F5F5;
+            }
+
             h1 {
                 text-align: center;
+                font-family: "Permanent Marker", cursive;
+                font-size: 5em;
+                color: #333;
+            }
+
+            .container {
+                width: 100vw;
+                display: flex;
+                justify-content: center;
             }
 
             .project-list {
                 display: flex;
                 flex-flow: row wrap;
                 justify-content: space-around;
+                width: 90vw;
+                padding: 2em;
+                padding-top: 0;
             }
 
             .project {
                 display: flex;
                 flex-flow: column;
-                margin: 1em;
-                min-width: 40vw;
+                margin: 5vw 1em;
+                margin-bottom: 0;
+                min-width: 30em;
+                width: 70vw;
+                background-color: #FAFAFA;
+                border-radius: 0.5em;
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
             }
 
-            .project__image {
-                width: calc(10vw + 20em);
+            .project__title {
+                font-family: "Permanent Marker", cursive;
+                color: #333;
+                padding: 0.5em;
+                font-size: 2em;
+                padding-bottom: 0;
+            }
+
+            .project__description {
+                font-family: "Oswald", sans-serif;
+                color: #333;
+                font-size: 1.5em;
+                padding: 0.5em;
+            }
+
+            .project__img {
+                min-width: 30em;
+                width: 70vw;
+                height: 30vw;
+                background-size: cover;
+                background-position: center;
+            }
+
+            .project__ctas {
+                border-top: 2px solid rgba(0, 0, 0, 0.1);
+                display: flex;
+                padding: 1em;
+            }
+
+            .project__button {
+                font-weight: 700;
+                color: #1976D2;
+                font-family: "Oswald", sans-serif;
+                font-size: 1.5em;
+                cursor: pointer;
             }
         </style>
     </body>
