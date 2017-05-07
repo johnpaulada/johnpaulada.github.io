@@ -13,44 +13,74 @@
         <meta name="keywords" content="John Paul Ada, Unlimited Blog Works, Projects">
         <meta name="author" content="John Paul Ada">
         <meta name="title" content="Projects - Unlimited Blog Works">
-
-        <link rel="stylesheet" href="../dist/bundle.css">
-
-        <title>Projects - Unlimited Blog Works</title>
     </head>
     <body>
         <header>
-
+            <h1>Projects</h1>
         </header>
         <section>
-
+            <div class="container">
+                <div class="project-list">
+                    <div class="project">
+                        <img src="./img/lsi-card.png" alt="Random Quote Generator Preview" class="project__image">
+                        <h2 class="project__title">
+                            Learning Style Inventory
+                        </h2>
+                        <p class="project__description">
+                            Generates a random computer science quote. <br>
+                            A FreeCodeCamp project.
+                        </p>
+                    </div>
+                    <div class="project">
+                        <img src="./img/mbti-card.png" alt="Random Quote Generator Preview" class="project__image">
+                        <h2 class="project__title">
+                            MBTI Personality Indicator
+                        </h2>
+                        <p class="project__description">
+                            Generates a random computer science quote. <br>
+                            A FreeCodeCamp project.
+                        </p>
+                    </div>
+                    <div class="project">
+                        <img src="./img/rqg-card.png" alt="Random Quote Generator Preview" class="project__image">
+                        <h2 class="project__title">
+                            Random Quote Generator
+                        </h2>
+                        <p class="project__description">
+                            Generates a random computer science quote. <br>
+                            A FreeCodeCamp project.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </section>
 
-        <noscript id="deferred-styles">
-            <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-            <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,900" rel="stylesheet">
-        </noscript>
+        <style media="screen">
+            * {
+                margin: 0;
+                padding: 0;
+            }
 
-        <script>
-            var loadDeferredStyles = function() {
-                var addStylesNode = document.getElementById("deferred-styles");
-                var replacement = document.createElement("div");
-                replacement.innerHTML = addStylesNode.textContent;
-                document.body.appendChild(replacement)
-                addStylesNode.parentElement.removeChild(addStylesNode);
-            };
-            var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-            webkitRequestAnimationFrame || msRequestAnimationFrame;
-            if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
-            else window.addEventListener('load', loadDeferredStyles);
-        </script>
+            h1 {
+                text-align: center;
+            }
 
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-3562061543166459",
-            enable_page_level_ads: true
-          });
-        </script>
+            .project-list {
+                display: flex;
+                flex-flow: row wrap;
+                justify-content: space-around;
+            }
+
+            .project {
+                display: flex;
+                flex-flow: column;
+                margin: 1em;
+                min-width: 40vw;
+            }
+
+            .project__image {
+                width: calc(10vw + 20em);
+            }
+        </style>
     </body>
 </html>
