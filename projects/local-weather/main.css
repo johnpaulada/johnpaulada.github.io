@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(./loren-gu-146847-squashed.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+}
+
+.header__title, .header__subtitle {
+  text-align: center;
+  opacity: 0.7;
+}
+
+.header__title {
+  color: #FAFAFA;
+  font-size: calc(2em + 4vw);
+  font-family: "Oxygen", sans-serif;
+}
+
+.header__subtitle {
+  color: #E8E8E8;
+  font-size: calc(1.5em + 2.5vw);
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.overlay {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: #333;
+  opacity: 0.6;
+}
+
+.weather {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 2vh;
+  margin-left: -1vw;
+}
+
+.description {
+  font-size: calc(2em + 3vw);
+  color: #FAFAFA;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.icon {
+  margin-top: -1vw;
+}
+
+.translucent {
+  opacity: 0.5;
+}
