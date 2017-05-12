@@ -1,2 +1,6 @@
-# Blog
-Powered by [Ghost](http://ghost.org) and [Buster](https://github.com/axitkhurana/buster/).
+# John Paul Ada - Personal Pages
+---
+
+![Page Preview](img/landing-1.jpeg)
+
+Hi! I'm JP and these are my personal pages. These include projects that I've done over the years, that I haven't lost.
